@@ -1,0 +1,19 @@
+body{
+background-image: url("https://ccdn.g-portal.com/Gallery_MC_lushcave_0009_0d34f8ce09.png");    
+background-size: cover;
+}
+h1,h2{
+text-align: center;
+color: white;
+}
+button{
+border: 0px;
+border-radius: 8px;
+padding: 8px;
+background-color: rgba(0, 0, 0, 0.301);
+margin-left: 930px;
+color: white;
+}
+a{
+    color:white;
+}
